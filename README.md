@@ -1,4 +1,4 @@
-<h1 style="text-align: center; ">👋 Hi, I'm Fawas Saka!</h1> 
+<h1>👋 Hi, I'm Fawas Saka!</h1> 
 
 ![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow%20Me&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/yourusername?label=My%20Stars&style=social)
