@@ -1,39 +1,33 @@
-<div style="font-family: Arial, sans-serif; text-align: center; background-color: #1a1a1a; color: #f2f2f2; padding: 50px; border-radius: 10px;">
-    <h1 style="font-size: 2.5em; animation: fadeIn 2s;">👋 Hi, I'm [Your Name]!</h1>
-    
-    <div style="font-size: 1.2em; animation: fadeIn 3s;">
-        <p>🇨🇦 A passionate software developer from Canada</p>
-        <p>🔭 Currently working on a marketplace</p>
-        <p>🌱 Learning Docker, Supabase, AWS</p>
-        <p>💬 Ask me about Node.js, React, Firebase... or anything else!</p>
-    </div>
-    
-    <div style="animation: fadeIn 4s;">
-        <p style="font-size: 1.2em; color: #ffcc00;">⚡ Fun fact:</p>
-        <p style="font-style: italic;">Game of Thrones Night's Watch cloaks are made from Ikea rugs</p>
-    </div>
-    
-    <div style="margin-top: 30px; animation: slideIn 5s;">
-        <a href="https://github.com/yourusername" target="_blank" style="text-decoration: none;">
-            <button style="background-color: #ffcc00; color: #1a1a1a; border: none; padding: 15px 30px; font-size: 1em; border-radius: 5px; cursor: pointer; transition: background-color 0.3s;">
-                Visit My GitHub
-            </button>
-        </a>
-    </div>
-</div>
+# 👋 Hi, I'm [Your Name]!
 
-<style>
-@keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-}
+![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow%20Me&style=social)
+![GitHub stars](https://img.shields.io/github/stars/yourusername?label=My%20Stars&style=social)
 
-@keyframes slideIn {
-    from { transform: translateY(50px); opacity: 0; }
-    to { transform: translateY(0); opacity: 1; }
-}
+🇨🇦 A passionate software developer from Canada
 
-button:hover {
-    background-color: #e6b800;
-}
-</style>
+🔭 I’m currently working on a marketplace
+
+🌱 I’m currently learning Docker, Supabase, AWS
+
+💬 Ask me about Node.js, React, Firebase... or anything else!
+
+⚡ **Fun fact:** Game of Thrones Night's Watch cloaks are made from Ikea rugs
+
+---
+
+### My Skills:
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+---
+
+### Connect with Me:
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
