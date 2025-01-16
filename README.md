@@ -15,11 +15,11 @@
    
    <div align="center">
       
-   🔭 I’m currently working on a Web App
+   🔭 I’m currently working on my Saas called (DevConnect)
    
-   🌱 I’m currently React , Python 
+   🌱 I’m currently learning React , typescript
    
-   💬 Ask me about Tailwind , js , Html ,css... or anything else!
+   💬 Ask me about Html,Css , Bootstrap , Tailwind , Javascript ..... or anything else!
    
    </div>
    
