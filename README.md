@@ -15,9 +15,9 @@
    
    <div align="center">
       
-   🔭 I’m currently working on my Saas called (DevConnect)
+   🔭 I’m currently working on my Saas called (NovaStack)
    
-   🌱 I’m currently learning React , typescript
+   🌱 I’m currently learning Next js , Firebase
    
    💬 Ask me about Html,Css , Bootstrap , Tailwind , Javascript ..... or anything else!
    
