@@ -15,9 +15,9 @@
    
    <div align="center">
       
-   🔭 I’m currently working on my Saas called (NovaStack)
+   🔭 I’m currently working on my Saas called (UptimeText)
    
-   🌱 I’m currently learning Next js , Firebase
+   🌱 I’m currently learning Next js , Firebase ,supabase
    
    💬 Ask me about Html,Css , Bootstrap , Tailwind , Javascript ..... or anything else!
    
