@@ -1,72 +1,88 @@
-   <h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Fawas+Saka!;Call+me+X+prgrammer😎"/>
-     
-   
-   </h1> 
-   
-   ---
-   
-   ![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow%20Me&style=social)
-   ![GitHub stars](https://img.shields.io/github/stars/yourusername?label=My%20Stars&style=social)
-   
-   <h3 align="center">A Passionate Front-End Developer from Nigeria</h3>
-   
-   <br/>
-   
-   <div align="center">
-      
-   🔭 I’m currently working on my Saas called (UptimeText)
-   
-   🌱 I’m currently learning Next js , Firebase ,supabase
-   
-   💬 Ask me about Html,Css , Bootstrap , Tailwind , Javascript ..... or anything else!
-   
-   </div>
-   
-   <div align="center">
-   <a href="mailto:fawassaka862@gmail.com"/>
-   
-      
-   </div>
-   
-   
-   </br>
-   
-   
-   ---
-   
-   
-   
-   
-   
-   <div align="center">
-   <h2 align="center">My Skills</h2>
-   
-   ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&height=40&width=40)
-   ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&height=40&width=40)
-   ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&height=40&width=40)
-   
-   
-   ![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&height=40&width=40)
-   ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&height=40&width=40)
-   
-   
-   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white&height=40&width=40)
-   </div>
-   
-   ---
+ <h1 align="center">👋 Hey there, I'm <span style="color:#4F46E5;">Fawas Saka</span></h1>
 
-</br>
-</br>
+###
+
+<p align="center">
+  <strong>Frontend Developer</strong> crafting digital experiences at the intersection of design, technology, and user experience.  
+  <br/>
+  <em>Available for work · Building sleek, fast, and human-centered interfaces.</em>
+</p>
+
+---
+
+<h2 align="left">🚀 About Me</h2>
+
+###
+
+<p align="left">
+✨ Passionate about creating clean, intuitive UIs that merge design and code.<br>
+📚 Constantly exploring modern frontend ecosystems — React, Next.js, and beyond.<br>
+🎯 Goal: To build products that make people go "wow" (and run smooth as butter 🧈).<br>
+🎨 I love good design, clean code, and coffee-fueled late-night sprints.
+</p>
+
+---
+
+<h2 align="left">🧠 I Code With</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/REST%20API-%23007396.svg?style=for-the-badge&logo=api&logoColor=white" height="30" alt="rest api badge" />
+</div>
+
+
+---
+
+<h2 align="left">🌐 Connect With Me</h2>
+
+###
+
+<p align="left">
+  <a href="https://fawas-saka.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%2302569B.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/Xprogrammer123" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/fawas-saka" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+<h2 align="left">📈 GitHub Stats</h2>
+
+###
 
 <div align="center">
-<h3>Connect With Me</h3>
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+  <img src="https://github-readme-stats.vercel.app/api?username=Xprogrammer123&show_icons=true&theme=radical" height="150" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xprogrammer123&theme=radical" height="150" alt="streak graph" />
 </div>
 
 ---
 
-
+<h3 align="center">✨ “Think it. Build it. Ship it.” ✨</h3>
