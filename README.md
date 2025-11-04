@@ -51,7 +51,7 @@
   <a href="https://linkedin.com/in/fawas-saka" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="https://twitter.com/fawasdev" target="_blank">
+  <a href="https://twitter.com/Sudo_Programmer" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
   </a>
   <a href="https://discord.com/users/fawas" target="_blank">
