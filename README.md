@@ -1,76 +1,67 @@
-<h1 align="center" style="font-family: 'Geist', sans-serif; font-weight: 600; letter-spacing: -0.5px;">
-Fawas Saka
-</h1>
+<div>
+  <img style="width:100%;" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Fawas%20Saka&desc=Frontend%20Developer%20crafting%20digital%20experiences&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&descSize=20&descAlign=50&descAlignY=65&theme=cobalt" />
+</div>
 
-<p align="center" style="font-family: 'Geist', sans-serif; color: #6b7280; font-size: 1.05rem;">
-Frontend Developer crafting digital experiences where design meets technology.<br/>
-Open to new opportunities.
+<p align="left" style="font-family: 'Geist', sans-serif; font-size:17px; max-width:600px;">
+Frontend Developer shaping thoughtful digital experiences at the intersection of design, technology, and user interaction.  
+Currently open to collaborations and new challenges.
 </p>
 
 ---
 
-<h2 align="left" style="font-family: 'Geist', sans-serif; font-weight: 500;">Profile</h2>
-
-<p align="left" style="font-family: 'Geist', sans-serif; color: #4b5563;">
-I focus on creating user interfaces that are intuitive, accessible, and fast.  
-My work bridges creativity and precision — bringing clarity to complex ideas through minimal, performance-driven design.  
-Exploring scalable frontend architectures, component systems, and seamless user flows.  
-</p>
-
----
-
-<h2 align="left" style="font-family: 'Geist', sans-serif; font-weight: 500;">Core Stack</h2>
+### Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" alt="typescript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="react" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="38" alt="nextjs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="38" alt="tailwindcss" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="38" alt="bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="38" alt="firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="38" alt="supabase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" alt="postgresql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/REST%20API-%23007396.svg?style=flat-square&logo=api&logoColor=white" height="24" alt="rest api" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white" height="40" alt="rest api logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
 </div>
 
 ---
 
-<h2 align="left" style="font-family: 'Geist', sans-serif; font-weight: 500;">Work & Direction</h2>
+### Socials
 
-<p align="left" style="font-family: 'Geist', sans-serif; color: #4b5563;">
-Building interactive systems that feel natural, lightweight, and cohesive.  
-Currently refining my craft in modern frontend ecosystems — React, Next.js, and TypeScript.  
-My focus is on scalability, design systems, and seamless developer experience.  
-</p>
+<div align="left">
+  <a href="https://linkedin.com/in/fawas-saka" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/fawasdev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.com/users/fawas" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://youtube.com/@fawas" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+</div>
 
 ---
 
-<h2 align="left" style="font-family: 'Geist', sans-serif; font-weight: 500;">Presence</h2>
-
-<p align="left">
-  <a href="https://fawas-saka.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/fawas-saka" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/fawas-saka" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
-
-<p align="center" style="font-family: 'Geist', sans-serif; color: #6b7280; font-size: 0.95rem;">
-<em>Minimal interfaces. Measurable impact.</em>
-</p>
