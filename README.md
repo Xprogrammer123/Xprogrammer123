@@ -1,16 +1,16 @@
 <!-- Header -->
 <div>
   <img 
-    style="width:100%;" 
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Saka✦%20Builds&desc=Think%20.%20Build%20.%20Ship&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&descSize=22&descAlign=50&descAlignY=65&theme=tokyonight"
-    alt="header banner"
-  /
+    style="width:100%; border-radius: 8px;" 
+    src="https://files.chat.openai.com/file_00000000dd7871f491d83c3e9d23e10e" 
+    alt="Saka✦Builds Header Banner"
+/>
 </div>
 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/mcaurodesouz/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
 </picture>
 
