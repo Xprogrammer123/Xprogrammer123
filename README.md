@@ -2,7 +2,7 @@
 <div>
   <img 
     style="width:100%; border-radius: 8px;" 
-    src="https://ik.imagekit.io/xprogrammer/images/portfolio%20images/github-header-banner.png" 
+    src="https://ik.imagekit.io/xprogrammer/images/portfolio%20images/github-header-banner2.jpg" 
     alt="Saka✦Builds Header Banner"
 />
 </div>
