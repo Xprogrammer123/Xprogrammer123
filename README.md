@@ -2,7 +2,7 @@
 <div>
   <img 
     style="width:100%; border-radius: 8px;" 
-    src="[https://files.chat.openai.com/file_00000000dd7871f491d83c3e9d23e10e](https://ik.imagekit.io/xprogrammer/images/portfolio%20images/github-header-banner.png)" 
+    src="https://ik.imagekit.io/xprogrammer/images/portfolio%20images/github-header-banner.png" 
     alt="Saka✦Builds Header Banner"
 />
 </div>
