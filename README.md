@@ -2,9 +2,9 @@
 <div>
   <img 
     style="width:100%;" 
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Fawas%20Saka&desc=Think%20.%20Build%20.%20Ship&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&descSize=22&descAlign=50&descAlignY=65&theme=tokyonight"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Saka✦%20Builds&desc=Think%20.%20Build%20.%20Ship&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&descSize=22&descAlign=50&descAlignY=65&theme=tokyonight"
     alt="header banner"
-  />
+  /
 </div>
 
 
